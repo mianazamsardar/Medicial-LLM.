@@ -1,0 +1,49 @@
+Q: What is diabetes? A: Diabetes is a chronic condition that affects how your body turns food into energy.
+Q: What are the symptoms of flu? A: Common symptoms include fever, cough, sore throat, and body aches.
+Q: How to treat high blood pressure? A: Lifestyle changes and prescribed medication can help manage it.
+Q: What causes asthma? A: Asthma can be triggered by allergens, cold air, and respiratory infections.
+Q: What is anemia? A: Anemia is a condition where you lack enough healthy red blood cells.
+Q: What is the normal blood pressure? A: Normal blood pressure is around 120/80 mmHg.
+Q: What is a fever? A: A fever is a temporary increase in body temperature often due to an illness.
+Q: What is COVID-19? A: COVID-19 is a respiratory illness caused by the SARS-CoV-2 virus.
+Q: How does vaccination work? A: Vaccines help your immune system recognize and fight infections.
+Q: What are the symptoms of diabetes? A: Frequent urination, increased thirst, and unexplained weight loss.
+Q: What is a migraine? A: A migraine is a type of headache characterized by intense pain and sensitivity to light.
+Q: How to relieve back pain? A: Rest, stretching, physical therapy, and over-the-counter medication may help.
+Q: What is dehydration? A: Dehydration occurs when your body loses more fluids than it takes in.
+Q: What is cholesterol? A: Cholesterol is a fatty substance found in your blood.
+Q: What is insulin? A: Insulin is a hormone that helps regulate blood sugar levels.
+Q: How to prevent heart disease? A: Maintain a healthy diet, exercise regularly, and avoid smoking.
+Q: What is cancer? A: Cancer is a disease where abnormal cells grow uncontrollably.
+Q: What causes tooth decay? A: Tooth decay is caused by bacteria that produce acid from sugar.
+Q: What is depression? A: Depression is a mental health disorder with persistent sadness and loss of interest.
+Q: What is anxiety? A: Anxiety is a feeling of worry or fear that can interfere with daily activities.
+Q: How to treat a cold? A: Rest, drink fluids, and take over-the-counter medicine for relief.
+Q: What is a stroke? A: A stroke happens when blood flow to the brain is interrupted.
+Q: What is a heart attack? A: A heart attack occurs when blood flow to the heart is blocked.
+Q: What is obesity? A: Obesity is a condition of excessive body fat that may impair health.
+Q: How to reduce cholesterol? A: Eat healthy, exercise, and take prescribed medication if necessary.
+Q: What is arthritis? A: Arthritis is inflammation of one or more joints, causing pain and stiffness.
+Q: What are allergies? A: Allergies are immune system reactions to substances like pollen or food.
+Q: How to treat diarrhea? A: Stay hydrated, rest, and eat light foods like bananas and rice.
+Q: What is tuberculosis? A: Tuberculosis is a serious infectious disease that mainly affects the lungs.
+Q: What is pneumonia? A: Pneumonia is an infection that inflames the air sacs in one or both lungs.
+Q: What is malaria? A: Malaria is a mosquito-borne disease caused by a parasite.
+Q: What is dengue fever? A: Dengue is a viral infection spread by mosquitoes causing high fever and pain.
+Q: What is hepatitis? A: Hepatitis is an inflammation of the liver, often caused by viruses.
+Q: How to improve immunity? A: Eat healthy, sleep well, exercise, and manage stress.
+Q: What is a virus? A: A virus is a tiny infectious agent that can reproduce only inside living cells.
+Q: What is a bacterial infection? A: It's an infection caused by harmful bacteria entering the body.
+Q: What is an antibiotic? A: An antibiotic is a medicine that kills or stops the growth of bacteria.
+Q: What is BMI? A: BMI (Body Mass Index) is a measure of body fat based on height and weight.
+Q: How to treat burns? A: Cool the burn, cover with a clean cloth, and seek medical help if severe.
+Q: What is HIV? A: HIV is a virus that attacks the immune system.
+Q: What is AIDS? A: AIDS is the final stage of HIV infection with severe immune damage.
+Q: What is contraception? A: Contraception prevents pregnancy through various methods like pills or condoms.
+Q: What are menstrual cramps? A: Painful sensations during menstruation caused by uterine contractions.
+Q: What is menopause? A: Menopause is when a woman’s menstrual cycle permanently stops.
+Q: What is infertility? A: Infertility is the inability to conceive after a year of trying.
+Q: What is breastfeeding? A: Breastfeeding is feeding a baby with milk from the mother’s breast.
+Q: How to treat insomnia? A: Practice good sleep hygiene and avoid caffeine or screen use before bed.
+Q: What is sleep apnea? A: A disorder where breathing repeatedly stops and starts during sleep.
+Q: What is eczema? A: Eczema is a skin condition causing red, itchy, and inflamed patches.

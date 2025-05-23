@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical LLM Dashboard</title>
+    <style>
+        body { font-family: Arial; padding: 30px; background-color: #f0f0f0; }
+        .box { background: white; padding: 20px; max-width: 600px; margin: auto; border-radius: 10px; }
+    </style>
+</head>
+<body>
+<div class="box">
+    <h2>Ask a Medical Question</h2>
+    <form method="post">
+        <input type="text" name="prompt" placeholder="e.g. What is diabetes?" style="width: 100%; padding: 10px;" required><br><br>
+        <input type="submit" value="Submit" style="padding: 10px 20px;">
+    </form>
+    {% if response %}
+    <div style="margin-top: 20px; background: #eaf4ff; padding: 15px;">
+        <strong>Answer:</strong> {{ response }}
+    </div>
+    {% endif %}
+</div>
+</body>
+</html>
